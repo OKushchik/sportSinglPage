@@ -153,6 +153,7 @@ body {
 .trainers__photo {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .trainers__photo-p {
     box-sizing: border-box;
